@@ -83,7 +83,7 @@
     "name": "supermarket Item prediction",
     "desc": "Unsupervise learning based project for item prediction and bill generator in supermarket. Tech - Python, sklearn, numpy, pandas, tkinter",
     "image": "portfolio-8",
-    "category": "lamp",
+    "category": "Python",
     "links": {
       "view": "#",
       "code": "https://github.com/Sanjeevkumar-kv29/SUPER-MARKET-RECOMMENDATION-SYSTEM---UNSUPERVISE-LEARNING"
