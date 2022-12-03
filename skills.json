@@ -1,5 +1,9 @@
 [
     {
+        "name": "DS & Algorithm",
+        "icon": "https://img.icons8.com/fluency/48/source-code.png"
+    },
+    {
         "name": "Android",
         "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
     },
@@ -10,6 +14,10 @@
     {
         "name": "Java",
         "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
     },
     {
         "name": "Python",
@@ -25,7 +33,11 @@
     },
     {
         "name": "Apache Spark",
-        "icon": "https://cdn.icon-icons.com/icons2/2699/PNG/48/apache_spark_logo_icon_170561.png"
+        "icon": "https://cdn.icon-icons.com/icons2/2699/PNG/48/apache_spark_logo_icon_170560.png"
+    },
+    {
+        "name": "Flask",
+        "icon": "https://img.icons8.com/ios/48/flask.png"
     },
     {
         "name": "GCP",
@@ -37,16 +49,10 @@
     },
     {
         "name": "DBT",
-        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+        "icon": "https://i0.wp.com/www.scalefree.com/wp-content/uploads/2021/09/dbt-logo.png?w=48&ssl=1"
     },
-    {
-        "name": "GCP",
-        "icon": "https://img.icons8.com/color/48/google-cloud.png"
-    },
-    {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
-    },
+    
+    
     {
         "name": "HTML5",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
@@ -59,7 +65,10 @@
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
-    
+    {
+        "name": "React Native",
+        "icon": "https://img.icons8.com/officel/48/react.png"
+    },    
     {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
@@ -76,6 +85,11 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Postman",
+        "icon": " https://cdn.icon-icons.com/icons2/3053/PNG/48/postman_macos_bigsur_icon_189815.png"
     }
+   
        
 ]
