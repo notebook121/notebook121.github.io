@@ -17,7 +17,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background: #f7f7f7;
+  background: #4a4a4a;
   font-family: "Poppins", sans-serif;
 }
 
@@ -188,6 +188,7 @@ header .navbar ul li a:hover {
   align-items: center;
 }
 .home #particles-js {
+  color: #f7f7f7;
   position: absolute;
   top: 0;
   left: 0;
