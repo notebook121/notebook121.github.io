@@ -19,7 +19,7 @@ html {
 }
 
 body {
-  background: #f7f7f7;
+  background: #ffffff;
   font-family: "Poppins", sans-serif;
 }
 
@@ -631,7 +631,7 @@ header .navbar ul li a:hover {
 
 /* education section starts */
 .education {
-  background: #e5ecfb;
+  background: #ffffff;
   min-height: 80vh;
 }
 
